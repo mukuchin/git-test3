@@ -36,3 +36,5 @@ void loop() {
   digitalWrite(3, LOW);
   delay(100);
 }
+
+//gitの仕様を頑張って理解しよう
